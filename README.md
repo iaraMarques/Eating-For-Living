@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaraMarques.github.io/Horror-Game-Lp)
+- [Visite o projeto online](https://iaramarques.github.io/Eating-For-Living/)
 
 <br/>
 
