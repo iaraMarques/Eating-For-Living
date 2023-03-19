@@ -1,4 +1,5 @@
-<h1 align="center"> Evento <br> Jornada do zero à primeira vaga <br>Horror Game</h1>
+<h1 align="center"> Evento <br> Jornada do zero à primeira vaga <br>Eating For Living
+</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
